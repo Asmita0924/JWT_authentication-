@@ -46,4 +46,3 @@ src/
 ## 🔄 Flow
 Login → Token Generated → Send Token → Access Secured APIs
 
-## Sc
